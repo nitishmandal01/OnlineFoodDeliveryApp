@@ -1,7 +1,7 @@
 
 # Online Food Delivery Application:
 
-This is a README file for an Online Food Delivery Application that aims to create a bridge between restaurants and customers. The application is being developed using the Spring Boot framework for the backend and HTML, CSS, and JavaScript for the frontend.
+This is an Online Food Delivery Application that aims to create a bridge between restaurants and customers. The application is being developed using the Spring Boot framework for the backend and HTML, CSS, and JavaScript for the frontend.
 
 ## Problem Statement:
 
